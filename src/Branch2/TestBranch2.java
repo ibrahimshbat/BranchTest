@@ -1,12 +1,12 @@
-package Branch1;
+package Branch2;
 
 
-public class TestBranch1 {
+public class TestBranch2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		System.out.println("Branch2");
+		System.out.println("Branch1");
 	}
 
 }
